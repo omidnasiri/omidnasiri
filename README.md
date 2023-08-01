@@ -25,7 +25,7 @@
 
 <p align="center">
  <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=omidnasiri&theme=tokyonight&show_icons=true" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=omidnasiri&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omidnasiri&theme=tokyonight&show_icons=true" width="450" height="99%" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=omidnasiri&theme=tokyonight" width="475" height="99%" />
  </a>
 </p>
