@@ -1,13 +1,16 @@
 ![Header](./header.png)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Connect with me:</h3>
 <p align="left">
- <a href="https://linkedin.com/in/omidnasiri" target="_blank">
-  <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" width="40" height="40"/>
+ <a href="https://linkedin.com/in/omidnasiri">
+  <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" alt="linkedin" width="40" height="40"/>
+ </a>
+  <a href="mailto:dev.arianbahrampour1380@gmail.com">
+  <img src="https://img.icons8.com/fluency/48/microsoft-outlook-2019.png" alt="microsoft-outlook-2019" width="40" height="40"/>
  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🍏 Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="gopher" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40" />
@@ -19,7 +22,6 @@
 
 - 🔭 I’m currently working as a **Golang Developer**
 - 🦸🏻 I’m looking to collaborate on: Golang, NestJS projects
-- 📫 How to reach me: **omid_nasiriii@outlook.com**
 
 </br>
 
