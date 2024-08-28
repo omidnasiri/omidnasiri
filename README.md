@@ -12,7 +12,8 @@
 
 <h3 align="left">🍏 Languages and Tools:</h3>
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="gopher" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original.svg" alt="djangorestframework" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original-wordmark.svg" alt="nestjs" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40" />
@@ -21,7 +22,7 @@
 </p>
 
 - 🔭 I’m currently working as a **Golang Developer**
-- 🦸🏻 I’m looking to collaborate on: Golang, NestJS projects
+- 🦸🏻 I’m looking to collaborate on: Golang, DRF, NestJS projects
 
 </br>
 
